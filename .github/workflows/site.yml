@@ -1,0 +1,57 @@
+name: 'site'
+
+on:
+    push:
+    pull_request:
+    schedule:
+      - cron: '0 0 * * 5'
+    issues:
+    issue_comment:
+
+jobs:
+  site:
+    runs-on: ubuntu-latest
+    steps:
+
+    - uses: actions/checkout@v2
+      with:
+        submodules: recursive
+
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install PyGitHub and Hugo
+      run: |
+        pip install -U pip --progress-bar off
+        pip install -U PyGithub pyyaml --progress-bar off
+
+        curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.74.3/hugo_extended_0.74.3_Linux-64bit.tar.gz | sudo tar xzf - -C /usr/local/bin hugo
+        sudo chmod +x /usr/local/bin/hugo
+        hugo version
+
+    - name: Get Issues
+      run: GITHUB_TOKEN='${{ secrets.GITHUB_TOKEN }}' python getIssues.py
+
+    - name: Build site
+      run: hugo
+
+    #- uses: actions/upload-artifact@v2
+    #  with:
+    #    name: site
+    #    path: public
+
+    - name: 'publish site to gh-pages'
+      if: github.event_name != 'pull_request'
+      env:
+        GH_DEPKEY: ${{ secrets.GHA_DEPLOY_KEY }}
+      run: |
+        cd public/
+        touch .nojekyll
+        git init
+        cp ../.git/config ./.git/config
+        git add .
+        git config --local user.email "push@gha"
+        git config --local user.name "GHA"
+        git commit -a -m "update ${{ github.sha }}"
+        git push -u origin +HEAD:gh-pages

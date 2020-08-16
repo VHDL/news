@@ -1,0 +1,25 @@
+baseURL: 'https://vhdl.github.io/news/'
+title: 'VHDL News'
+theme: 'bare-hugo-theme'
+enableGitInfo: false
+
+taxonomies:
+  tag: tags
+params:
+  author: 'Open Source VHDL'
+  repoLink: 'https://github.com/VHDL/news'
+  description: 'A social news website'
+  mainSections: [ 'past', 'show', 'articles', 'tools', 'cores' ]
+  postcss: false
+  includeAuthorInTitle: false
+  social:
+      - icon: 'github'
+        url: 'https://github.com/VHDL/news'
+#  categories:
+#    "Libraries": ""
+
+menu:
+  right:
+    - identifier: 'submit'
+      name: 'Submit'
+      url: "https://github.com/VHDL/news/issues/new/choose"
