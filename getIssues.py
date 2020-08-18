@@ -66,7 +66,8 @@ for issue in gh_repo.get_issues(state='open'):
     # Extract the 'frontmatter' (first code block at the beginning of the body)
     body = issue.body.splitlines()
     if body[0][0:3] != '```':
-        raise Exception('Issue body must start with a code block!')
+        print('Skipping issue %d; body must start with a code block!' % issue.number)
+        continue
     for div, bline in enumerate(body[1:]):
         if bline[0:3] == '```':
             break
