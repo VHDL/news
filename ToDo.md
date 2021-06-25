@@ -7,3 +7,4 @@
 - Reactions do not trigger automatic updates.
 - The body of the submissions (first comment in the issue) is currently unused in the site, only the metadata (first code block) is used. Ideally, the body would be shown as an expandable/collapsible `div`, without requiring JavaScript.
 - materialdesignicons are currently loaded through a `script` tag. Instead, it would be desirable to add it as an npm dependency, and have it bundled.
+- [utterance/utterances](https://github.com/utterance/utterances)
