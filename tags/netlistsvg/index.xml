@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netlistsvg on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/netlistsvg/</link>
+    <description>Recent content in netlistsvg on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Dec 2020 04:54:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/netlistsvg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VHDL block diagrams using netlistsvg</title>
+      <link>https://vhdl.github.io/news/articles/25/</link>
+      <pubDate>Tue, 01 Dec 2020 04:54:36 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/25/</guid>
+      <description>Block diagrams are a useful way of presenting state machines and other HDL code in a visual manner. They are useful for learning how the code works, documenting it for future programmers and reports, or debugging code that may not be working as expected.
+While tools for generating block diagrams are already included in most HDL development environments, these are typically proprietary (though they may be free as in beer, they’re not free as in freedom).</description>
+    </item>
+    
+  </channel>
+</rss>

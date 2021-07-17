@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on VHDL News</title>
+    <link>https://vhdl.github.io/news/articles/</link>
+    <description>Recent content in Articles on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Dec 2020 05:34:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mixed HDL on Fomu, with GHDL and Yosys</title>
+      <link>https://vhdl.github.io/news/articles/26/</link>
+      <pubDate>Wed, 02 Dec 2020 05:34:29 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/26/</guid>
+      <description>Section Mixed HDL on Fomu of the FPGA Tomu Workshop contains Makefile based examples for synthesising mixed language (VHDL and Verilog) designs using open source tooling. Find sources at im-tomu/fomu-workshop: mixed-hdl/blink.
+NOTE: The workshop uses im-tomu/fomu-toolchain, which is based on open-tool-forge/fpga-toolchain. Hence, makefiles expect ghdl-yosys-plugin to be built into Yosys. Other packaging solutions can be used too, but using ghdl-yosys-plugin as a module requires adding -m ghdl to the yosys call in the Makefile.</description>
+    </item>
+    
+    <item>
+      <title>VHDL block diagrams using netlistsvg</title>
+      <link>https://vhdl.github.io/news/articles/25/</link>
+      <pubDate>Tue, 01 Dec 2020 04:54:36 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/25/</guid>
+      <description>Block diagrams are a useful way of presenting state machines and other HDL code in a visual manner. They are useful for learning how the code works, documenting it for future programmers and reports, or debugging code that may not be working as expected.
+While tools for generating block diagrams are already included in most HDL development environments, these are typically proprietary (though they may be free as in beer, they’re not free as in freedom).</description>
+    </item>
+    
+    <item>
+      <title>SusanaCanel - Proyectos VHDL</title>
+      <link>https://vhdl.github.io/news/articles/15/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/15/</guid>
+      <description>Youtube channel SusanaCanel contains 100+ videos (in spanish) about learning VHDL. The GitHub repository contains the sources used in the videos.</description>
+    </item>
+    
+    <item>
+      <title>Open Source Formal Verification in VHDL</title>
+      <link>https://vhdl.github.io/news/articles/13/</link>
+      <pubDate>Mon, 07 Sep 2020 09:57:20 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning FPGA programming, key points for a software developer</title>
+      <link>https://vhdl.github.io/news/articles/10/</link>
+      <pubDate>Tue, 01 Sep 2020 16:45:34 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/10/</guid>
+      <description> dev.to/targeted  Learning FPGA programming, key points for a software developer (part 1, the time)  Learning FPGA programming, key points for a software developer (part 2, registered logic) Learning FPGA programming, key points for a software developer (part 3, code patterns and inferred behavior)     </description>
+    </item>
+    
+    <item>
+      <title>What’s new in VHDL-2019 - VHDLwhiz</title>
+      <link>https://vhdl.github.io/news/articles/9/</link>
+      <pubDate>Fri, 28 Aug 2020 17:27:03 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create your own VVC for UVVM</title>
+      <link>https://vhdl.github.io/news/articles/7/</link>
+      <pubDate>Wed, 19 Aug 2020 12:13:59 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing VHDL Verification Challenges with OSVVM</title>
+      <link>https://vhdl.github.io/news/articles/4/</link>
+      <pubDate>Tue, 18 Aug 2020 15:03:07 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/4/</guid>
+      <description>An introduction to the capabilities of OSVVM utility and verification component libraries.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry?</title>
+      <link>https://vhdl.github.io/news/articles/2/</link>
+      <pubDate>Tue, 18 Aug 2020 14:51:02 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/2/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+  </channel>
+</rss>
