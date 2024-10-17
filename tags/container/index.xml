@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>container on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/container/</link>
+    <description>Recent content in container on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Oct 2020 08:48:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker dashboard (on Windows and Mac OS)</title>
+      <link>https://vhdl.github.io/news/tools/18/</link>
+      <pubDate>Fri, 09 Oct 2020 08:48:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
