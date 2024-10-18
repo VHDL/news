@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>verification on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/verification/</link>
+    <description>Recent content in verification on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Oct 2021 02:23:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/verification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSVVM &amp; UVVM: Differences and Unification</title>
+      <link>https://vhdl.github.io/news/articles/33/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/33/</guid>
+      <description>As the developer of Open Source VHDL Verification Methodology (OSVVM) , I would like to invite the Universal VHDL Verification Methodology (UVVM) community to join us in using and developing OSVVM.
+At this point OSVVM and UVVM are largely duplicating what each other is doing. This wastes valuable time and resources that could be better spent with all of us working toward a common goal. Lets be honest, the SystemVerilog community went though these same growing pains when Siemens, Cadence, and Synopsys came together to unify URM (Cadence), AVM (Siemens), OVM (Cadence + Siemens), and VMM (Synopsys) into UVM.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 5)</title>
+      <link>https://vhdl.github.io/news/past/32/</link>
+      <pubDate>Wed, 27 Oct 2021 22:36:39 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/32/</guid>
+      <description>The fifth part was published, titled Wilson Study Comparison:
+ Part 5 of this series compares our GitHub-based research on the verification frameworks used for VHDL designs with the findings in the Wilson Research Group functional verification study. Our analysis shows that the derived GitHub data confirms the Wilson study results for UVM, OSVVM, and UVVM but it also shows that the Wilson study misses a large part of the overall picture by not including all commonly used frameworks.</description>
+    </item>
+    
+    <item>
+      <title>VHDL/Verilog Cryptography cores incl. co-simulation with openSSL through GHDLs VHPIdirect</title>
+      <link>https://vhdl.github.io/news/cores/24/</link>
+      <pubDate>Mon, 30 Nov 2020 19:50:15 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/24/</guid>
+      <description>Cryptography IP-cores &amp;amp; tests written in VHDL / Verilog.
+The components in this repository are not intended as productional code. They serve as proof of concept, for example how to implement a pipeline using only (local) variables instead of (global) signals. Furthermore they were used how to do a VHDL-to-Verilog conversion for learning purposes.
+The testbenches to verify AES and CTR-AES are examples how useful GHDLs VHPIdirect is. They use openSSL as reference models to check the correctness of the VHDL implementation.</description>
+    </item>
+    
+    <item>
+      <title>Combining VUnit tests with cocotb components</title>
+      <link>https://vhdl.github.io/news/show/16/</link>
+      <pubDate>Mon, 28 Sep 2020 06:09:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 4)</title>
+      <link>https://vhdl.github.io/news/past/14/</link>
+      <pubDate>Fri, 18 Sep 2020 00:54:44 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/14/</guid>
+      <description>The fourth part was published:
+ In part 3 of our GitHub study we presented the number of users on GitHub doing their VHDL verification with one or more of the analyzed frameworks: VUnit, OSVVM, UVVM, UVM, and cocotb. The results, especially that for the professional users, came as a bit of a surprise which lead to interesting discussions in the comments of the post. Can a study of professional users on GitHub really say something about professional practices behind company walls?</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 3)</title>
+      <link>https://vhdl.github.io/news/past/11/</link>
+      <pubDate>Wed, 02 Sep 2020 21:33:51 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/11/</guid>
+      <description>The third part was published:
+ In the second article about our GitHub study we analyzed the popularity of standard verification frameworks in VHDL repositories. This time we extend on those findings by analyzing the Git history of those repositories to find the number of users and examine how that changed over time.
+
+Looking at users rather than repositories doesn’t have a drastic effect to the overall picture. VUnit is still the most commonly used verification framework on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>What’s new in VHDL-2019 - VHDLwhiz</title>
+      <link>https://vhdl.github.io/news/articles/9/</link>
+      <pubDate>Fri, 28 Aug 2020 17:27:03 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First VHDL-2019 examples on EDA playground</title>
+      <link>https://vhdl.github.io/news/past/8/</link>
+      <pubDate>Sat, 22 Aug 2020 20:37:41 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/8/</guid>
+      <description>First examples of VHDL-2019 on EDA playground supported by Riviera Pro:
+ some of the new features of the std.env package private and alias in protected types  </description>
+    </item>
+    
+    <item>
+      <title>Create your own VVC for UVVM</title>
+      <link>https://vhdl.github.io/news/articles/7/</link>
+      <pubDate>Wed, 19 Aug 2020 12:13:59 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 2)</title>
+      <link>https://vhdl.github.io/news/past/6/</link>
+      <pubDate>Wed, 19 Aug 2020 07:38:22 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/6/</guid>
+      <description>The second article/chapter was published:
+ In the first article about our GitHub study we focused on the presence of tests in HDL repositories. This time we&amp;rsquo;re looking into what standard verification frameworks are being used. The main conclusions are that:
+ VUnit is the most used verification framework for professional and academic VHDL repositories on GitHub. Most repositories using more than one framework use VUnit and OSVVM. More than half of the repositories using OSVVM also use VUnit.</description>
+    </item>
+    
+    <item>
+      <title>Examples of using PSL for functional and formal verification of VHDL with GHDL (and SymbiYosys) </title>
+      <link>https://vhdl.github.io/news/show/5/</link>
+      <pubDate>Tue, 18 Aug 2020 16:31:26 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/5/</guid>
+      <description>A collection of examples of using PSL (Property Specification Language) for functional and formal verification of VHDL designs with GHDL (and Yosys / SymbiYosys).
+This is a project with the purpose to get a current state of PSL implementation in GHDL. It probably will find unsupported PSL features, incorrect implemented features or simple bugs like GHDL crashs. It is also intended for experiments with PSL when learning the language. You can play around with the examples, as they are pretty simple.</description>
+    </item>
+    
+    <item>
+      <title>Addressing VHDL Verification Challenges with OSVVM</title>
+      <link>https://vhdl.github.io/news/articles/4/</link>
+      <pubDate>Tue, 18 Aug 2020 15:03:07 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/4/</guid>
+      <description>An introduction to the capabilities of OSVVM utility and verification component libraries.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 1)</title>
+      <link>https://vhdl.github.io/news/past/3/</link>
+      <pubDate>Tue, 18 Aug 2020 14:51:44 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/3/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry?</title>
+      <link>https://vhdl.github.io/news/articles/2/</link>
+      <pubDate>Tue, 18 Aug 2020 14:51:02 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/2/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+  </channel>
+</rss>

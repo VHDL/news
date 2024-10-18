@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>synthesis on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/synthesis/</link>
+    <description>Recent content in synthesis on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Oct 2021 15:39:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/synthesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joint ICTP, SAIFR and UNESP School on Systems-on-Chip, Embedded Microcontrollers and their Applications in Research and Industry</title>
+      <link>https://vhdl.github.io/news/articles/31/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/31/</guid>
+      <description>@rodrigomelo9:
+ Happy to help again in an Abdus Salam International Centre for Theoretical Physics (ICTP) workshop talking about #VHDL and #FOSS for #FPGA
+  Links to slides (and coming soon the recording) of the mini crash course about VHDL:
+ http://indico.ictp.it/event/9644/session/2/contribution/11/material/slides/ http://indico.ictp.it/event/9644/session/3/contribution/14/material/slides/   </description>
+    </item>
+    
+    <item>
+      <title>Mixed HDL on Fomu, with GHDL and Yosys</title>
+      <link>https://vhdl.github.io/news/articles/26/</link>
+      <pubDate>Wed, 02 Dec 2020 05:34:29 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/26/</guid>
+      <description>Section Mixed HDL on Fomu of the FPGA Tomu Workshop contains Makefile based examples for synthesising mixed language (VHDL and Verilog) designs using open source tooling. Find sources at im-tomu/fomu-workshop: mixed-hdl/blink.
+NOTE: The workshop uses im-tomu/fomu-toolchain, which is based on open-tool-forge/fpga-toolchain. Hence, makefiles expect ghdl-yosys-plugin to be built into Yosys. Other packaging solutions can be used too, but using ghdl-yosys-plugin as a module requires adding -m ghdl to the yosys call in the Makefile.</description>
+    </item>
+    
+    <item>
+      <title>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools</title>
+      <link>https://vhdl.github.io/news/cores/21/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/21/</guid>
+      <description>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools
+Speakers: Anton Blanchard, IBM &amp;amp; Tristan Gingold, CERN
+Microwatt is a 64 bit POWER OpenISA soft processor, written in VHDL. Over time it has grown from supporting Micropython, to Zephyr and most recently Linux.
+From its original inception, Microwatt has relied heavily on GHDL, the Open Source VHDL simulator. GHDL has very recently added synthesis support and together with Yosys and Nextpnr allows for a completely open source toolchain for FPGAs.</description>
+    </item>
+    
+    <item>
+      <title>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools</title>
+      <link>https://vhdl.github.io/news/tools/21/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/21/</guid>
+      <description>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools
+Speakers: Anton Blanchard, IBM &amp;amp; Tristan Gingold, CERN
+Microwatt is a 64 bit POWER OpenISA soft processor, written in VHDL. Over time it has grown from supporting Micropython, to Zephyr and most recently Linux.
+From its original inception, Microwatt has relied heavily on GHDL, the Open Source VHDL simulator. GHDL has very recently added synthesis support and together with Yosys and Nextpnr allows for a completely open source toolchain for FPGAs.</description>
+    </item>
+    
+    <item>
+      <title>Structured constraint files for HDL designs targeting FPGA boards </title>
+      <link>https://vhdl.github.io/news/tools/20/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/20/</guid>
+      <description>Any HDL design targeting FPGA boards needs constraint files in a vendor/tool specific format. Constraints are typically tied to the board and the interfaces, but not to the actual design. Therefore, copying them is inefficient and increases the maintenance burden of projects including multiple designs to be tested on several boards. This repository provides constraint definitions in a standardised and distributed format, fot decoupling board details from design sources.</description>
+    </item>
+    
+    <item>
+      <title>What are the chances of having sb_ice40_components_syn.vhd freely distributed for the benefit of the community?</title>
+      <link>https://vhdl.github.io/news/past/19/</link>
+      <pubDate>Fri, 09 Oct 2020 14:54:20 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker dashboard (on Windows and Mac OS)</title>
+      <link>https://vhdl.github.io/news/tools/18/</link>
+      <pubDate>Fri, 09 Oct 2020 08:48:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to convert vhdl to other formats</title>
+      <link>https://vhdl.github.io/news/past/17/</link>
+      <pubDate>Mon, 28 Sep 2020 15:23:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/17/</guid>
+      <description>I made a list of &amp;ldquo;How to convert vhdl to &amp;hellip;&amp;rdquo; in hopes it gets indexed by the search engines. All commands are similar, they are listed so common search phrases get indexed.
+The format translation can be done with the yosys&amp;rsquo;s write_*commands. Therefore, in order to them to work, ghdl, yosys and ghdl-yosys-plugin have to be installed (make sure they are updated).
+In the following examples, ghdl is being used, in what I believe, is the most straightforward way.</description>
+    </item>
+    
+  </channel>
+</rss>
