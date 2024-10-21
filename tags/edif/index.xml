@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>edif on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/edif/</link>
+    <description>Recent content in edif on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Sep 2020 15:23:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/edif/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to convert vhdl to other formats</title>
+      <link>https://vhdl.github.io/news/past/17/</link>
+      <pubDate>Mon, 28 Sep 2020 15:23:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/17/</guid>
+      <description>I made a list of &amp;ldquo;How to convert vhdl to &amp;hellip;&amp;rdquo; in hopes it gets indexed by the search engines. All commands are similar, they are listed so common search phrases get indexed.
+The format translation can be done with the yosys&amp;rsquo;s write_*commands. Therefore, in order to them to work, ghdl, yosys and ghdl-yosys-plugin have to be installed (make sure they are updated).
+In the following examples, ghdl is being used, in what I believe, is the most straightforward way.</description>
+    </item>
+    
+  </channel>
+</rss>
