@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on VHDL News</title>
+    <link>https://vhdl.github.io/news/tools/</link>
+    <description>Recent content in Tools on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Jan 2021 06:41:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MINGW-packages for Electronic Design Automation (EDA)</title>
+      <link>https://vhdl.github.io/news/tools/27/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/27/</guid>
+      <description>This repository contains references to package recipes (PKGBUILD files) for electronic design automation (EDA) tools/projects to be built as MinGW-w64 targets on MSYS2 (MINGW32 and MINGW64). The main purpose is coordination of contributions for upstreaming all tools/projects to official MSYS2 repositories, and having them updated periodically. The default package manager (pacman) allows installing multiple tools at once through group mingw-w64-*-eda (i686|x86_64) . Find further details, along with usage and contribution guidelines at hdl.</description>
+    </item>
+    
+    <item>
+      <title>Building and deploying container images for open source EDA</title>
+      <link>https://vhdl.github.io/news/tools/23/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/23/</guid>
+      <description>hdl/containers: README.md
+This repository contains scripts and GitHub Actions (GHA) YAML workflows for building, testing and deploying OCI images (aka Docker images) including open source EDA tooling. All of them are pushed to hub.docker.com/u/hdlc. See hdl.github.io/containers for further details and contributing guidelines.
+  ghdl/docker: DEPRECATED.md
+Some images related to synthesis and PnR were moved to hdl/containers and hub.docker.com/u/hdlc. Some of those are now mirrored to ghdl/synth:* for backwards compatibility, but are no longer built in this repository.</description>
+    </item>
+    
+    <item>
+      <title>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools</title>
+      <link>https://vhdl.github.io/news/tools/21/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/21/</guid>
+      <description>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools
+Speakers: Anton Blanchard, IBM &amp;amp; Tristan Gingold, CERN
+Microwatt is a 64 bit POWER OpenISA soft processor, written in VHDL. Over time it has grown from supporting Micropython, to Zephyr and most recently Linux.
+From its original inception, Microwatt has relied heavily on GHDL, the Open Source VHDL simulator. GHDL has very recently added synthesis support and together with Yosys and Nextpnr allows for a completely open source toolchain for FPGAs.</description>
+    </item>
+    
+    <item>
+      <title>Structured constraint files for HDL designs targeting FPGA boards </title>
+      <link>https://vhdl.github.io/news/tools/20/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/20/</guid>
+      <description>Any HDL design targeting FPGA boards needs constraint files in a vendor/tool specific format. Constraints are typically tied to the board and the interfaces, but not to the actual design. Therefore, copying them is inefficient and increases the maintenance burden of projects including multiple designs to be tested on several boards. This repository provides constraint definitions in a standardised and distributed format, fot decoupling board details from design sources.</description>
+    </item>
+    
+    <item>
+      <title>Docker dashboard (on Windows and Mac OS)</title>
+      <link>https://vhdl.github.io/news/tools/18/</link>
+      <pubDate>Fri, 09 Oct 2020 08:48:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

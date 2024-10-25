@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>methodology on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/methodology/</link>
+    <description>Recent content in methodology on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Oct 2021 02:23:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSVVM &amp; UVVM: Differences and Unification</title>
+      <link>https://vhdl.github.io/news/articles/33/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/33/</guid>
+      <description>As the developer of Open Source VHDL Verification Methodology (OSVVM) , I would like to invite the Universal VHDL Verification Methodology (UVVM) community to join us in using and developing OSVVM.
+At this point OSVVM and UVVM are largely duplicating what each other is doing. This wastes valuable time and resources that could be better spent with all of us working toward a common goal. Lets be honest, the SystemVerilog community went though these same growing pains when Siemens, Cadence, and Synopsys came together to unify URM (Cadence), AVM (Siemens), OVM (Cadence + Siemens), and VMM (Synopsys) into UVM.</description>
+    </item>
+    
+  </channel>
+</rss>

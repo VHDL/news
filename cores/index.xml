@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cores on VHDL News</title>
+    <link>https://vhdl.github.io/news/cores/</link>
+    <description>Recent content in Cores on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Feb 2022 15:46:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/cores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NEORV32: 32-bit RISC-V soft-core CPU and microcontroller-like SoC in VHDL</title>
+      <link>https://vhdl.github.io/news/cores/36/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/36/</guid>
+      <description>The NEORV32 Processor is a customizable microcontroller-like system on chip (SoC) that is based on the RISC-V NEORV32 CPU. The project is intended as auxiliary processor in larger SoC designs or as ready-to-go stand-alone custom microcontroller that even fits into a Lattice iCE40 UltraPlus 5k low-power FPGA running at 24 MHz.
+Special focus is paid on execution safety to provide defined and predictable behavior at any time. Therefore, the CPU ensures that all memory access are acknowledged and no invalid/malformed instructions are executed.</description>
+    </item>
+    
+    <item>
+      <title>VHDL/Verilog Cryptography cores incl. co-simulation with openSSL through GHDLs VHPIdirect</title>
+      <link>https://vhdl.github.io/news/cores/24/</link>
+      <pubDate>Mon, 30 Nov 2020 19:50:15 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/24/</guid>
+      <description>Cryptography IP-cores &amp;amp; tests written in VHDL / Verilog.
+The components in this repository are not intended as productional code. They serve as proof of concept, for example how to implement a pipeline using only (local) variables instead of (global) signals. Furthermore they were used how to do a VHDL-to-Verilog conversion for learning purposes.
+The testbenches to verify AES and CTR-AES are examples how useful GHDLs VHPIdirect is. They use openSSL as reference models to check the correctness of the VHDL implementation.</description>
+    </item>
+    
+    <item>
+      <title>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools</title>
+      <link>https://vhdl.github.io/news/cores/21/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/21/</guid>
+      <description>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools
+Speakers: Anton Blanchard, IBM &amp;amp; Tristan Gingold, CERN
+Microwatt is a 64 bit POWER OpenISA soft processor, written in VHDL. Over time it has grown from supporting Micropython, to Zephyr and most recently Linux.
+From its original inception, Microwatt has relied heavily on GHDL, the Open Source VHDL simulator. GHDL has very recently added synthesis support and together with Yosys and Nextpnr allows for a completely open source toolchain for FPGAs.</description>
+    </item>
+    
+  </channel>
+</rss>

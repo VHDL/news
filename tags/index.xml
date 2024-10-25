@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/</link>
+    <description>Recent content in Tags on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Feb 2022 15:46:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CFU</title>
+      <link>https://vhdl.github.io/news/tags/cfu/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/cfu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cpu</title>
+      <link>https://vhdl.github.io/news/tags/cpu/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/cpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>custom-function</title>
+      <link>https://vhdl.github.io/news/tags/custom-function/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/custom-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gdb</title>
+      <link>https://vhdl.github.io/news/tags/gdb/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/gdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEOLED</title>
+      <link>https://vhdl.github.io/news/tags/neoled/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/neoled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neorv32</title>
+      <link>https://vhdl.github.io/news/tags/neorv32/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/neorv32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCD</title>
+      <link>https://vhdl.github.io/news/tags/ocd/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PWM</title>
+      <link>https://vhdl.github.io/news/tags/pwm/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/pwm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>riscv</title>
+      <link>https://vhdl.github.io/news/tags/riscv/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/riscv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soc</title>
+      <link>https://vhdl.github.io/news/tags/soc/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/soc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPI</title>
+      <link>https://vhdl.github.io/news/tags/spi/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/spi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stream</title>
+      <link>https://vhdl.github.io/news/tags/stream/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/stream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRNG</title>
+      <link>https://vhdl.github.io/news/tags/trng/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/trng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TWI</title>
+      <link>https://vhdl.github.io/news/tags/twi/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/twi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vhdl</title>
+      <link>https://vhdl.github.io/news/tags/vhdl/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/vhdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wishbone</title>
+      <link>https://vhdl.github.io/news/tags/wishbone/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/wishbone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHIPAlliance</title>
+      <link>https://vhdl.github.io/news/tags/chipalliance/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/chipalliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fpga</title>
+      <link>https://vhdl.github.io/news/tags/fpga/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interchange</title>
+      <link>https://vhdl.github.io/news/tags/interchange/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/interchange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rapidwright</title>
+      <link>https://vhdl.github.io/news/tags/rapidwright/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/rapidwright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schema</title>
+      <link>https://vhdl.github.io/news/tags/schema/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/schema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xilinx</title>
+      <link>https://vhdl.github.io/news/tags/xilinx/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/xilinx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methodology</title>
+      <link>https://vhdl.github.io/news/tags/methodology/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osvvm</title>
+      <link>https://vhdl.github.io/news/tags/osvvm/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/osvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unification</title>
+      <link>https://vhdl.github.io/news/tags/unification/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/unification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uvvm</title>
+      <link>https://vhdl.github.io/news/tags/uvvm/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/uvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verification</title>
+      <link>https://vhdl.github.io/news/tags/verification/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cocotb</title>
+      <link>https://vhdl.github.io/news/tags/cocotb/</link>
+      <pubDate>Wed, 27 Oct 2021 22:36:39 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/cocotb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study</title>
+      <link>https://vhdl.github.io/news/tags/study/</link>
+      <pubDate>Wed, 27 Oct 2021 22:36:39 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uvm</title>
+      <link>https://vhdl.github.io/news/tags/uvm/</link>
+      <pubDate>Wed, 27 Oct 2021 22:36:39 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/uvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vunit</title>
+      <link>https://vhdl.github.io/news/tags/vunit/</link>
+      <pubDate>Wed, 27 Oct 2021 22:36:39 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/vunit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wilson</title>
+      <link>https://vhdl.github.io/news/tags/wilson/</link>
+      <pubDate>Wed, 27 Oct 2021 22:36:39 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/wilson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foss</title>
+      <link>https://vhdl.github.io/news/tags/foss/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/foss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghdl</title>
+      <link>https://vhdl.github.io/news/tags/ghdl/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/ghdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>https://vhdl.github.io/news/tags/simulation/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synthesis</title>
+      <link>https://vhdl.github.io/news/tags/synthesis/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://vhdl.github.io/news/tags/workshop/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iverilog</title>
+      <link>https://vhdl.github.io/news/tags/iverilog/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/iverilog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osvb</title>
+      <link>https://vhdl.github.io/news/tags/osvb/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/osvb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renode</title>
+      <link>https://vhdl.github.io/news/tags/renode/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/renode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svunit</title>
+      <link>https://vhdl.github.io/news/tags/svunit/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/svunit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verilator</title>
+      <link>https://vhdl.github.io/news/tags/verilator/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/verilator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yosys</title>
+      <link>https://vhdl.github.io/news/tags/yosys/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/yosys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dfu-util</title>
+      <link>https://vhdl.github.io/news/tags/dfu-util/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/dfu-util/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eccprog</title>
+      <link>https://vhdl.github.io/news/tags/eccprog/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/eccprog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA</title>
+      <link>https://vhdl.github.io/news/tags/eda/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fritzing</title>
+      <link>https://vhdl.github.io/news/tags/fritzing/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/fritzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghdl-yosys-plugin</title>
+      <link>https://vhdl.github.io/news/tags/ghdl-yosys-plugin/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/ghdl-yosys-plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphviz</title>
+      <link>https://vhdl.github.io/news/tags/graphviz/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/graphviz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gtkwave</title>
+      <link>https://vhdl.github.io/news/tags/gtkwave/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/gtkwave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>icesprog</title>
+      <link>https://vhdl.github.io/news/tags/icesprog/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/icesprog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>icestorm</title>
+      <link>https://vhdl.github.io/news/tags/icestorm/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/icestorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KiCad</title>
+      <link>https://vhdl.github.io/news/tags/kicad/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/kicad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSYS2</title>
+      <link>https://vhdl.github.io/news/tags/msys2/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/msys2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nextpnr</title>
+      <link>https://vhdl.github.io/news/tags/nextpnr/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/nextpnr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ngspice</title>
+      <link>https://vhdl.github.io/news/tags/ngspice/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/ngspice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openFPGALoader</title>
+      <link>https://vhdl.github.io/news/tags/openfpgaloader/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/openfpgaloader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenOCD</title>
+      <link>https://vhdl.github.io/news/tags/openocd/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/openocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>package</title>
+      <link>https://vhdl.github.io/news/tags/package/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prjtrellis</title>
+      <link>https://vhdl.github.io/news/tags/prjtrellis/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/prjtrellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://vhdl.github.io/news/tags/windows/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yices2</title>
+      <link>https://vhdl.github.io/news/tags/yices2/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/yices2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>examples</title>
+      <link>https://vhdl.github.io/news/tags/examples/</link>
+      <pubDate>Wed, 02 Dec 2020 05:34:29 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fomu</title>
+      <link>https://vhdl.github.io/news/tags/fomu/</link>
+      <pubDate>Wed, 02 Dec 2020 05:34:29 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/fomu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verilog</title>
+      <link>https://vhdl.github.io/news/tags/verilog/</link>
+      <pubDate>Wed, 02 Dec 2020 05:34:29 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/verilog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assertions</title>
+      <link>https://vhdl.github.io/news/tags/assertions/</link>
+      <pubDate>Mon, 30 Nov 2020 19:50:15 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/assertions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptography</title>
+      <link>https://vhdl.github.io/news/tags/cryptography/</link>
+      <pubDate>Mon, 30 Nov 2020 19:50:15 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psl</title>
+      <link>https://vhdl.github.io/news/tags/psl/</link>
+      <pubDate>Mon, 30 Nov 2020 19:50:15 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/psl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debian</title>
+      <link>https://vhdl.github.io/news/tags/debian/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://vhdl.github.io/news/tags/docker/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podman</title>
+      <link>https://vhdl.github.io/news/tags/podman/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/podman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symbiyosys</title>
+      <link>https://vhdl.github.io/news/tags/symbiyosys/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/symbiyosys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>z3</title>
+      <link>https://vhdl.github.io/news/tags/z3/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/z3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitLab</title>
+      <link>https://vhdl.github.io/news/tags/gitlab/</link>
+      <pubDate>Fri, 13 Nov 2020 14:39:38 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://vhdl.github.io/news/tags/latex/</link>
+      <pubDate>Fri, 13 Nov 2020 14:39:38 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LRM</title>
+      <link>https://vhdl.github.io/news/tags/lrm/</link>
+      <pubDate>Fri, 13 Nov 2020 14:39:38 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/lrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VASG</title>
+      <link>https://vhdl.github.io/news/tags/vasg/</link>
+      <pubDate>Fri, 13 Nov 2020 14:39:38 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/vasg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microwatt</title>
+      <link>https://vhdl.github.io/news/tags/microwatt/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/microwatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openisa</title>
+      <link>https://vhdl.github.io/news/tags/openisa/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/openisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power</title>
+      <link>https://vhdl.github.io/news/tags/power/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lpf</title>
+      <link>https://vhdl.github.io/news/tags/lpf/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/lpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pcf</title>
+      <link>https://vhdl.github.io/news/tags/pcf/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/pcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sdc</title>
+      <link>https://vhdl.github.io/news/tags/sdc/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/sdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ucf</title>
+      <link>https://vhdl.github.io/news/tags/ucf/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/ucf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xdc</title>
+      <link>https://vhdl.github.io/news/tags/xdc/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/xdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>components</title>
+      <link>https://vhdl.github.io/news/tags/components/</link>
+      <pubDate>Fri, 09 Oct 2020 14:54:20 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ice40</title>
+      <link>https://vhdl.github.io/news/tags/ice40/</link>
+      <pubDate>Fri, 09 Oct 2020 14:54:20 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/ice40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lattice</title>
+      <link>https://vhdl.github.io/news/tags/lattice/</link>
+      <pubDate>Fri, 09 Oct 2020 14:54:20 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/lattice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>container</title>
+      <link>https://vhdl.github.io/news/tags/container/</link>
+      <pubDate>Fri, 09 Oct 2020 08:48:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://vhdl.github.io/news/tags/programming/</link>
+      <pubDate>Fri, 09 Oct 2020 08:48:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>btor2</title>
+      <link>https://vhdl.github.io/news/tags/btor2/</link>
+      <pubDate>Mon, 28 Sep 2020 15:23:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/btor2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edif</title>
+      <link>https://vhdl.github.io/news/tags/edif/</link>
+      <pubDate>Mon, 28 Sep 2020 15:23:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/edif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firrtl</title>
+      <link>https://vhdl.github.io/news/tags/firrtl/</link>
+      <pubDate>Mon, 28 Sep 2020 15:23:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/firrtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smt2</title>
+      <link>https://vhdl.github.io/news/tags/smt2/</link>
+      <pubDate>Mon, 28 Sep 2020 15:23:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/smt2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>co-simulation</title>
+      <link>https://vhdl.github.io/news/tags/co-simulation/</link>
+      <pubDate>Mon, 28 Sep 2020 06:09:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/co-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://vhdl.github.io/news/tags/python/</link>
+      <pubDate>Mon, 28 Sep 2020 06:09:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://vhdl.github.io/news/tags/testing/</link>
+      <pubDate>Mon, 28 Sep 2020 06:09:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>altera</title>
+      <link>https://vhdl.github.io/news/tags/altera/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/altera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exercises</title>
+      <link>https://vhdl.github.io/news/tags/exercises/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/exercises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>https://vhdl.github.io/news/tags/learning/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modelsim</title>
+      <link>https://vhdl.github.io/news/tags/modelsim/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/modelsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://vhdl.github.io/news/tags/teaching/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videos</title>
+      <link>https://vhdl.github.io/news/tags/videos/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://vhdl.github.io/news/tags/youtube/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ieee</title>
+      <link>https://vhdl.github.io/news/tags/ieee/</link>
+      <pubDate>Fri, 28 Aug 2020 17:27:03 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vhdl-2019</title>
+      <link>https://vhdl.github.io/news/tags/vhdl-2019/</link>
+      <pubDate>Fri, 28 Aug 2020 17:27:03 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/vhdl-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vhdlwhiz</title>
+      <link>https://vhdl.github.io/news/tags/vhdlwhiz/</link>
+      <pubDate>Fri, 28 Aug 2020 17:27:03 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/vhdlwhiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eda-playground</title>
+      <link>https://vhdl.github.io/news/tags/eda-playground/</link>
+      <pubDate>Sat, 22 Aug 2020 20:37:41 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/eda-playground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>riviera</title>
+      <link>https://vhdl.github.io/news/tags/riviera/</link>
+      <pubDate>Sat, 22 Aug 2020 20:37:41 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/riviera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formal-verification</title>
+      <link>https://vhdl.github.io/news/tags/formal-verification/</link>
+      <pubDate>Tue, 18 Aug 2020 16:31:26 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/formal-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional-coverage</title>
+      <link>https://vhdl.github.io/news/tags/functional-coverage/</link>
+      <pubDate>Tue, 18 Aug 2020 16:31:26 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/functional-coverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mentor</title>
+      <link>https://vhdl.github.io/news/tags/mentor/</link>
+      <pubDate>Tue, 18 Aug 2020 15:03:07 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tags/mentor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

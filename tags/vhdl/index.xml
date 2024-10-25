@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vhdl on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/vhdl/</link>
+    <description>Recent content in vhdl on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Feb 2022 15:46:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/vhdl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NEORV32: 32-bit RISC-V soft-core CPU and microcontroller-like SoC in VHDL</title>
+      <link>https://vhdl.github.io/news/cores/36/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/36/</guid>
+      <description>The NEORV32 Processor is a customizable microcontroller-like system on chip (SoC) that is based on the RISC-V NEORV32 CPU. The project is intended as auxiliary processor in larger SoC designs or as ready-to-go stand-alone custom microcontroller that even fits into a Lattice iCE40 UltraPlus 5k low-power FPGA running at 24 MHz.
+Special focus is paid on execution safety to provide defined and predictable behavior at any time. Therefore, the CPU ensures that all memory access are acknowledged and no invalid/malformed instructions are executed.</description>
+    </item>
+    
+    <item>
+      <title>OSVVM &amp; UVVM: Differences and Unification</title>
+      <link>https://vhdl.github.io/news/articles/33/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/33/</guid>
+      <description>As the developer of Open Source VHDL Verification Methodology (OSVVM) , I would like to invite the Universal VHDL Verification Methodology (UVVM) community to join us in using and developing OSVVM.
+At this point OSVVM and UVVM are largely duplicating what each other is doing. This wastes valuable time and resources that could be better spent with all of us working toward a common goal. Lets be honest, the SystemVerilog community went though these same growing pains when Siemens, Cadence, and Synopsys came together to unify URM (Cadence), AVM (Siemens), OVM (Cadence + Siemens), and VMM (Synopsys) into UVM.</description>
+    </item>
+    
+    <item>
+      <title>Joint ICTP, SAIFR and UNESP School on Systems-on-Chip, Embedded Microcontrollers and their Applications in Research and Industry</title>
+      <link>https://vhdl.github.io/news/articles/31/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/31/</guid>
+      <description>@rodrigomelo9:
+ Happy to help again in an Abdus Salam International Centre for Theoretical Physics (ICTP) workshop talking about #VHDL and #FOSS for #FPGA
+  Links to slides (and coming soon the recording) of the mini crash course about VHDL:
+ http://indico.ictp.it/event/9644/session/2/contribution/11/material/slides/ http://indico.ictp.it/event/9644/session/3/contribution/14/material/slides/   </description>
+    </item>
+    
+    <item>
+      <title>Mixed HDL on Fomu, with GHDL and Yosys</title>
+      <link>https://vhdl.github.io/news/articles/26/</link>
+      <pubDate>Wed, 02 Dec 2020 05:34:29 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/26/</guid>
+      <description>Section Mixed HDL on Fomu of the FPGA Tomu Workshop contains Makefile based examples for synthesising mixed language (VHDL and Verilog) designs using open source tooling. Find sources at im-tomu/fomu-workshop: mixed-hdl/blink.
+NOTE: The workshop uses im-tomu/fomu-toolchain, which is based on open-tool-forge/fpga-toolchain. Hence, makefiles expect ghdl-yosys-plugin to be built into Yosys. Other packaging solutions can be used too, but using ghdl-yosys-plugin as a module requires adding -m ghdl to the yosys call in the Makefile.</description>
+    </item>
+    
+    <item>
+      <title>VHDL/Verilog Cryptography cores incl. co-simulation with openSSL through GHDLs VHPIdirect</title>
+      <link>https://vhdl.github.io/news/cores/24/</link>
+      <pubDate>Mon, 30 Nov 2020 19:50:15 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/24/</guid>
+      <description>Cryptography IP-cores &amp;amp; tests written in VHDL / Verilog.
+The components in this repository are not intended as productional code. They serve as proof of concept, for example how to implement a pipeline using only (local) variables instead of (global) signals. Furthermore they were used how to do a VHDL-to-Verilog conversion for learning purposes.
+The testbenches to verify AES and CTR-AES are examples how useful GHDLs VHPIdirect is. They use openSSL as reference models to check the correctness of the VHDL implementation.</description>
+    </item>
+    
+    <item>
+      <title>VHDL needs you!</title>
+      <link>https://vhdl.github.io/news/past/22/</link>
+      <pubDate>Fri, 13 Nov 2020 14:39:38 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/22/</guid>
+      <description>Are you familiar or experienced with LaTeX? In preparation for the next revision, the VHDL Analysis and Standarisation Group (VASG) decided to migrate the sources of the IEEE Std 1076-2019 Language Reference Manual (LRM) from a closed source binary file based tool (Adobe FrameMaker) to an open source text based solution (LaTeX); together with using a forge (gitlab.com/IEEE-P1076) for coordinating and keeping track of the modifications.
+Although many people think that the standards community is driven by vendors, that is a mistake noawadays.</description>
+    </item>
+    
+    <item>
+      <title>What are the chances of having sb_ice40_components_syn.vhd freely distributed for the benefit of the community?</title>
+      <link>https://vhdl.github.io/news/past/19/</link>
+      <pubDate>Fri, 09 Oct 2020 14:54:20 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
