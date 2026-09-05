@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ucf on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/ucf/</link>
+    <description>Recent content in ucf on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Oct 2020 21:52:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/ucf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Structured constraint files for HDL designs targeting FPGA boards </title>
+      <link>https://vhdl.github.io/news/tools/20/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/20/</guid>
+      <description>Any HDL design targeting FPGA boards needs constraint files in a vendor/tool specific format. Constraints are typically tied to the board and the interfaces, but not to the actual design. Therefore, copying them is inefficient and increases the maintenance burden of projects including multiple designs to be tested on several boards. This repository provides constraint definitions in a standardised and distributed format, fot decoupling board details from design sources.</description>
+    </item>
+    
+  </channel>
+</rss>

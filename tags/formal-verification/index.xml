@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formal-verification on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/formal-verification/</link>
+    <description>Recent content in formal-verification on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Aug 2020 16:31:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/formal-verification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Examples of using PSL for functional and formal verification of VHDL with GHDL (and SymbiYosys) </title>
+      <link>https://vhdl.github.io/news/show/5/</link>
+      <pubDate>Tue, 18 Aug 2020 16:31:26 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/5/</guid>
+      <description>A collection of examples of using PSL (Property Specification Language) for functional and formal verification of VHDL designs with GHDL (and Yosys / SymbiYosys).
+This is a project with the purpose to get a current state of PSL implementation in GHDL. It probably will find unsupported PSL features, incorrect implemented features or simple bugs like GHDL crashs. It is also intended for experiments with PSL when learning the language. You can play around with the examples, as they are pretty simple.</description>
+    </item>
+    
+  </channel>
+</rss>

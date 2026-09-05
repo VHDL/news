@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on VHDL News</title>
+    <link>https://vhdl.github.io/news/articles/</link>
+    <description>Recent content in Articles on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Oct 2021 02:23:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSVVM &amp; UVVM: Differences and Unification</title>
+      <link>https://vhdl.github.io/news/articles/33/</link>
+      <pubDate>Sat, 30 Oct 2021 02:23:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/33/</guid>
+      <description>As the developer of Open Source VHDL Verification Methodology (OSVVM) , I would like to invite the Universal VHDL Verification Methodology (UVVM) community to join us in using and developing OSVVM.
+At this point OSVVM and UVVM are largely duplicating what each other is doing. This wastes valuable time and resources that could be better spent with all of us working toward a common goal. Lets be honest, the SystemVerilog community went though these same growing pains when Siemens, Cadence, and Synopsys came together to unify URM (Cadence), AVM (Siemens), OVM (Cadence + Siemens), and VMM (Synopsys) into UVM.</description>
+    </item>
+    
+    <item>
+      <title>Joint ICTP, SAIFR and UNESP School on Systems-on-Chip, Embedded Microcontrollers and their Applications in Research and Industry</title>
+      <link>https://vhdl.github.io/news/articles/31/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/31/</guid>
+      <description>@rodrigomelo9:
+ Happy to help again in an Abdus Salam International Centre for Theoretical Physics (ICTP) workshop talking about #VHDL and #FOSS for #FPGA
+  Links to slides (and coming soon the recording) of the mini crash course about VHDL:
+ http://indico.ictp.it/event/9644/session/2/contribution/11/material/slides/ http://indico.ictp.it/event/9644/session/3/contribution/14/material/slides/   </description>
+    </item>
+    
+    <item>
+      <title>Mixed HDL on Fomu, with GHDL and Yosys</title>
+      <link>https://vhdl.github.io/news/articles/26/</link>
+      <pubDate>Wed, 02 Dec 2020 05:34:29 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/26/</guid>
+      <description>Section Mixed HDL on Fomu of the FPGA Tomu Workshop contains Makefile based examples for synthesising mixed language (VHDL and Verilog) designs using open source tooling. Find sources at im-tomu/fomu-workshop: mixed-hdl/blink.
+NOTE: The workshop uses im-tomu/fomu-toolchain, which is based on open-tool-forge/fpga-toolchain. Hence, makefiles expect ghdl-yosys-plugin to be built into Yosys. Other packaging solutions can be used too, but using ghdl-yosys-plugin as a module requires adding -m ghdl to the yosys call in the Makefile.</description>
+    </item>
+    
+    <item>
+      <title>SusanaCanel - Proyectos VHDL</title>
+      <link>https://vhdl.github.io/news/articles/15/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/15/</guid>
+      <description>Youtube channel SusanaCanel contains 100+ videos (in spanish) about learning VHDL. The GitHub repository contains the sources used in the videos.</description>
+    </item>
+    
+    <item>
+      <title>Open Source Formal Verification in VHDL</title>
+      <link>https://vhdl.github.io/news/articles/13/</link>
+      <pubDate>Mon, 07 Sep 2020 09:57:20 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning FPGA programming, key points for a software developer</title>
+      <link>https://vhdl.github.io/news/articles/10/</link>
+      <pubDate>Tue, 01 Sep 2020 16:45:34 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/10/</guid>
+      <description> dev.to/targeted  Learning FPGA programming, key points for a software developer (part 1, the time)  Learning FPGA programming, key points for a software developer (part 2, registered logic) Learning FPGA programming, key points for a software developer (part 3, code patterns and inferred behavior)     </description>
+    </item>
+    
+    <item>
+      <title>What’s new in VHDL-2019 - VHDLwhiz</title>
+      <link>https://vhdl.github.io/news/articles/9/</link>
+      <pubDate>Fri, 28 Aug 2020 17:27:03 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create your own VVC for UVVM</title>
+      <link>https://vhdl.github.io/news/articles/7/</link>
+      <pubDate>Wed, 19 Aug 2020 12:13:59 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing VHDL Verification Challenges with OSVVM</title>
+      <link>https://vhdl.github.io/news/articles/4/</link>
+      <pubDate>Tue, 18 Aug 2020 15:03:07 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/4/</guid>
+      <description>An introduction to the capabilities of OSVVM utility and verification component libraries.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry?</title>
+      <link>https://vhdl.github.io/news/articles/2/</link>
+      <pubDate>Tue, 18 Aug 2020 14:51:02 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/2/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+  </channel>
+</rss>

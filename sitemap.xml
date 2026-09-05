@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vhdl.github.io/news/welcome/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/</loc>
+    <lastmod>2022-02-05T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/show/</loc>
+    <lastmod>2021-10-20T01:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/</loc>
+    <lastmod>2021-10-30T02:23:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tools/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/cores/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/cfu/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/cpu/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/custom-function/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/gdb/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/neoled/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/neorv32/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/cores/36/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/ocd/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/pwm/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/riscv/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/soc/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/spi/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/stream/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/trng/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/twi/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/vhdl/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/wishbone/</loc>
+    <lastmod>2022-02-05T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/chipalliance/</loc>
+    <lastmod>2022-02-05T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/35/</loc>
+    <lastmod>2022-02-05T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/fpga/</loc>
+    <lastmod>2022-02-05T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/interchange/</loc>
+    <lastmod>2022-02-05T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/rapidwright/</loc>
+    <lastmod>2022-02-05T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/schema/</loc>
+    <lastmod>2022-02-05T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/xilinx/</loc>
+    <lastmod>2022-02-05T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/methodology/</loc>
+    <lastmod>2021-10-30T02:23:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/osvvm/</loc>
+    <lastmod>2021-10-30T02:23:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/33/</loc>
+    <lastmod>2021-10-30T02:23:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/unification/</loc>
+    <lastmod>2021-10-30T02:23:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/uvvm/</loc>
+    <lastmod>2021-10-30T02:23:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/verification/</loc>
+    <lastmod>2021-10-30T02:23:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/cocotb/</loc>
+    <lastmod>2021-10-27T22:36:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/study/</loc>
+    <lastmod>2021-10-27T22:36:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/uvm/</loc>
+    <lastmod>2021-10-27T22:36:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/vunit/</loc>
+    <lastmod>2021-10-27T22:36:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/32/</loc>
+    <lastmod>2021-10-27T22:36:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/wilson/</loc>
+    <lastmod>2021-10-27T22:36:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/foss/</loc>
+    <lastmod>2021-10-21T15:39:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/ghdl/</loc>
+    <lastmod>2021-10-21T15:39:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/31/</loc>
+    <lastmod>2021-10-21T15:39:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/simulation/</loc>
+    <lastmod>2021-10-21T15:39:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/synthesis/</loc>
+    <lastmod>2021-10-21T15:39:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/workshop/</loc>
+    <lastmod>2021-10-21T15:39:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/iverilog/</loc>
+    <lastmod>2021-10-20T01:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/show/30/</loc>
+    <lastmod>2021-10-20T01:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/osvb/</loc>
+    <lastmod>2021-10-20T01:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/renode/</loc>
+    <lastmod>2021-10-20T01:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/svunit/</loc>
+    <lastmod>2021-10-20T01:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/verilator/</loc>
+    <lastmod>2021-10-20T01:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/yosys/</loc>
+    <lastmod>2021-10-20T01:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/dfu-util/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/eccprog/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/eda/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/fritzing/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/ghdl-yosys-plugin/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/graphviz/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/gtkwave/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/icesprog/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/icestorm/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/kicad/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tools/27/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/msys2/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/nextpnr/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/ngspice/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/openfpgaloader/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/openocd/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/package/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/prjtrellis/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/windows/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/yices2/</loc>
+    <lastmod>2021-01-19T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/examples/</loc>
+    <lastmod>2020-12-02T05:34:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/fomu/</loc>
+    <lastmod>2020-12-02T05:34:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/26/</loc>
+    <lastmod>2020-12-02T05:34:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/verilog/</loc>
+    <lastmod>2020-12-02T05:34:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/assertions/</loc>
+    <lastmod>2020-11-30T19:50:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/cryptography/</loc>
+    <lastmod>2020-11-30T19:50:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/psl/</loc>
+    <lastmod>2020-11-30T19:50:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/cores/24/</loc>
+    <lastmod>2020-11-30T19:50:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tools/23/</loc>
+    <lastmod>2020-11-23T09:09:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/debian/</loc>
+    <lastmod>2020-11-23T09:09:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/docker/</loc>
+    <lastmod>2020-11-23T09:09:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/podman/</loc>
+    <lastmod>2020-11-23T09:09:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/symbiyosys/</loc>
+    <lastmod>2020-11-23T09:09:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/z3/</loc>
+    <lastmod>2020-11-23T09:09:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/gitlab/</loc>
+    <lastmod>2020-11-13T14:39:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/latex/</loc>
+    <lastmod>2020-11-13T14:39:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/lrm/</loc>
+    <lastmod>2020-11-13T14:39:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/vasg/</loc>
+    <lastmod>2020-11-13T14:39:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/22/</loc>
+    <lastmod>2020-11-13T14:39:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/microwatt/</loc>
+    <lastmod>2020-10-27T06:45:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/cores/21/</loc>
+    <lastmod>2020-10-27T06:45:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tools/21/</loc>
+    <lastmod>2020-10-27T06:45:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/openisa/</loc>
+    <lastmod>2020-10-27T06:45:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/power/</loc>
+    <lastmod>2020-10-27T06:45:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/lpf/</loc>
+    <lastmod>2020-10-22T21:52:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/pcf/</loc>
+    <lastmod>2020-10-22T21:52:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/sdc/</loc>
+    <lastmod>2020-10-22T21:52:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tools/20/</loc>
+    <lastmod>2020-10-22T21:52:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/ucf/</loc>
+    <lastmod>2020-10-22T21:52:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/xdc/</loc>
+    <lastmod>2020-10-22T21:52:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/components/</loc>
+    <lastmod>2020-10-09T14:54:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/ice40/</loc>
+    <lastmod>2020-10-09T14:54:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/lattice/</loc>
+    <lastmod>2020-10-09T14:54:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/19/</loc>
+    <lastmod>2020-10-09T14:54:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/container/</loc>
+    <lastmod>2020-10-09T08:48:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tools/18/</loc>
+    <lastmod>2020-10-09T08:48:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/programming/</loc>
+    <lastmod>2020-10-09T08:48:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/btor2/</loc>
+    <lastmod>2020-09-28T15:23:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/edif/</loc>
+    <lastmod>2020-09-28T15:23:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/firrtl/</loc>
+    <lastmod>2020-09-28T15:23:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/17/</loc>
+    <lastmod>2020-09-28T15:23:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/smt2/</loc>
+    <lastmod>2020-09-28T15:23:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/co-simulation/</loc>
+    <lastmod>2020-09-28T06:09:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/show/16/</loc>
+    <lastmod>2020-09-28T06:09:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/python/</loc>
+    <lastmod>2020-09-28T06:09:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/testing/</loc>
+    <lastmod>2020-09-28T06:09:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/altera/</loc>
+    <lastmod>2020-09-18T03:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/exercises/</loc>
+    <lastmod>2020-09-18T03:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/learning/</loc>
+    <lastmod>2020-09-18T03:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/modelsim/</loc>
+    <lastmod>2020-09-18T03:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/15/</loc>
+    <lastmod>2020-09-18T03:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/teaching/</loc>
+    <lastmod>2020-09-18T03:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/videos/</loc>
+    <lastmod>2020-09-18T03:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/youtube/</loc>
+    <lastmod>2020-09-18T03:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/14/</loc>
+    <lastmod>2020-09-18T00:54:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/13/</loc>
+    <lastmod>2020-09-07T09:57:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/11/</loc>
+    <lastmod>2020-09-02T21:33:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/10/</loc>
+    <lastmod>2020-09-01T16:45:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/ieee/</loc>
+    <lastmod>2020-08-28T17:27:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/vhdl-2019/</loc>
+    <lastmod>2020-08-28T17:27:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/vhdlwhiz/</loc>
+    <lastmod>2020-08-28T17:27:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/9/</loc>
+    <lastmod>2020-08-28T17:27:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/eda-playground/</loc>
+    <lastmod>2020-08-22T20:37:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/8/</loc>
+    <lastmod>2020-08-22T20:37:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/riviera/</loc>
+    <lastmod>2020-08-22T20:37:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/7/</loc>
+    <lastmod>2020-08-19T12:13:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/6/</loc>
+    <lastmod>2020-08-19T07:38:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/show/5/</loc>
+    <lastmod>2020-08-18T16:31:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/formal-verification/</loc>
+    <lastmod>2020-08-18T16:31:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/functional-coverage/</loc>
+    <lastmod>2020-08-18T16:31:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/4/</loc>
+    <lastmod>2020-08-18T15:03:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/tags/mentor/</loc>
+    <lastmod>2020-08-18T15:03:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/past/3/</loc>
+    <lastmod>2020-08-18T14:51:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhdl.github.io/news/articles/2/</loc>
+    <lastmod>2020-08-18T14:51:02+00:00</lastmod>
+  </url>
+  
+</urlset>

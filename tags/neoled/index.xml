@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NEOLED on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/neoled/</link>
+    <description>Recent content in NEOLED on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Feb 2022 15:46:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/neoled/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NEORV32: 32-bit RISC-V soft-core CPU and microcontroller-like SoC in VHDL</title>
+      <link>https://vhdl.github.io/news/cores/36/</link>
+      <pubDate>Sat, 05 Feb 2022 15:46:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/36/</guid>
+      <description>The NEORV32 Processor is a customizable microcontroller-like system on chip (SoC) that is based on the RISC-V NEORV32 CPU. The project is intended as auxiliary processor in larger SoC designs or as ready-to-go stand-alone custom microcontroller that even fits into a Lattice iCE40 UltraPlus 5k low-power FPGA running at 24 MHz.
+Special focus is paid on execution safety to provide defined and predictable behavior at any time. Therefore, the CPU ensures that all memory access are acknowledged and no invalid/malformed instructions are executed.</description>
+    </item>
+    
+  </channel>
+</rss>

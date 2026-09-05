@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>symbiyosys on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/symbiyosys/</link>
+    <description>Recent content in symbiyosys on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Nov 2020 09:09:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/symbiyosys/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building and deploying container images for open source EDA</title>
+      <link>https://vhdl.github.io/news/tools/23/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/23/</guid>
+      <description>hdl/containers: README.md
+This repository contains scripts and GitHub Actions (GHA) YAML workflows for building, testing and deploying OCI images (aka Docker images) including open source EDA tooling. All of them are pushed to hub.docker.com/u/hdlc. See hdl.github.io/containers for further details and contributing guidelines.
+  ghdl/docker: DEPRECATED.md
+Some images related to synthesis and PnR were moved to hdl/containers and hub.docker.com/u/hdlc. Some of those are now mirrored to ghdl/synth:* for backwards compatibility, but are no longer built in this repository.</description>
+    </item>
+    
+    <item>
+      <title>Examples of using PSL for functional and formal verification of VHDL with GHDL (and SymbiYosys) </title>
+      <link>https://vhdl.github.io/news/show/5/</link>
+      <pubDate>Tue, 18 Aug 2020 16:31:26 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/5/</guid>
+      <description>A collection of examples of using PSL (Property Specification Language) for functional and formal verification of VHDL designs with GHDL (and Yosys / SymbiYosys).
+This is a project with the purpose to get a current state of PSL implementation in GHDL. It probably will find unsupported PSL features, incorrect implemented features or simple bugs like GHDL crashs. It is also intended for experiments with PSL when learning the language. You can play around with the examples, as they are pretty simple.</description>
+    </item>
+    
+  </channel>
+</rss>

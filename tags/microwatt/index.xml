@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microwatt on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/microwatt/</link>
+    <description>Recent content in microwatt on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Oct 2020 06:45:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/microwatt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools</title>
+      <link>https://vhdl.github.io/news/cores/21/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/21/</guid>
+      <description>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools
+Speakers: Anton Blanchard, IBM &amp;amp; Tristan Gingold, CERN
+Microwatt is a 64 bit POWER OpenISA soft processor, written in VHDL. Over time it has grown from supporting Micropython, to Zephyr and most recently Linux.
+From its original inception, Microwatt has relied heavily on GHDL, the Open Source VHDL simulator. GHDL has very recently added synthesis support and together with Yosys and Nextpnr allows for a completely open source toolchain for FPGAs.</description>
+    </item>
+    
+    <item>
+      <title>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools</title>
+      <link>https://vhdl.github.io/news/tools/21/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/21/</guid>
+      <description>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools
+Speakers: Anton Blanchard, IBM &amp;amp; Tristan Gingold, CERN
+Microwatt is a 64 bit POWER OpenISA soft processor, written in VHDL. Over time it has grown from supporting Micropython, to Zephyr and most recently Linux.
+From its original inception, Microwatt has relied heavily on GHDL, the Open Source VHDL simulator. GHDL has very recently added synthesis support and together with Yosys and Nextpnr allows for a completely open source toolchain for FPGAs.</description>
+    </item>
+    
+  </channel>
+</rss>
