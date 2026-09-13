@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vhdlwhiz on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/vhdlwhiz/</link>
+    <description>Recent content in vhdlwhiz on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Aug 2020 17:27:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/vhdlwhiz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What’s new in VHDL-2019 - VHDLwhiz</title>
+      <link>https://vhdl.github.io/news/articles/9/</link>
+      <pubDate>Fri, 28 Aug 2020 17:27:03 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simulation on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/simulation/</link>
+    <description>Recent content in simulation on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Oct 2021 15:39:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joint ICTP, SAIFR and UNESP School on Systems-on-Chip, Embedded Microcontrollers and their Applications in Research and Industry</title>
+      <link>https://vhdl.github.io/news/articles/31/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/31/</guid>
+      <description>@rodrigomelo9:
+ Happy to help again in an Abdus Salam International Centre for Theoretical Physics (ICTP) workshop talking about #VHDL and #FOSS for #FPGA
+  Links to slides (and coming soon the recording) of the mini crash course about VHDL:
+ http://indico.ictp.it/event/9644/session/2/contribution/11/material/slides/ http://indico.ictp.it/event/9644/session/3/contribution/14/material/slides/   </description>
+    </item>
+    
+    <item>
+      <title>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools</title>
+      <link>https://vhdl.github.io/news/cores/21/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/21/</guid>
+      <description>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools
+Speakers: Anton Blanchard, IBM &amp;amp; Tristan Gingold, CERN
+Microwatt is a 64 bit POWER OpenISA soft processor, written in VHDL. Over time it has grown from supporting Micropython, to Zephyr and most recently Linux.
+From its original inception, Microwatt has relied heavily on GHDL, the Open Source VHDL simulator. GHDL has very recently added synthesis support and together with Yosys and Nextpnr allows for a completely open source toolchain for FPGAs.</description>
+    </item>
+    
+    <item>
+      <title>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools</title>
+      <link>https://vhdl.github.io/news/tools/21/</link>
+      <pubDate>Tue, 27 Oct 2020 06:45:43 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/21/</guid>
+      <description>Microwatt and GHDL - An Open Hardware CPU written in VHDL, Synthesized with Open Source Tools
+Speakers: Anton Blanchard, IBM &amp;amp; Tristan Gingold, CERN
+Microwatt is a 64 bit POWER OpenISA soft processor, written in VHDL. Over time it has grown from supporting Micropython, to Zephyr and most recently Linux.
+From its original inception, Microwatt has relied heavily on GHDL, the Open Source VHDL simulator. GHDL has very recently added synthesis support and together with Yosys and Nextpnr allows for a completely open source toolchain for FPGAs.</description>
+    </item>
+    
+    <item>
+      <title>Docker dashboard (on Windows and Mac OS)</title>
+      <link>https://vhdl.github.io/news/tools/18/</link>
+      <pubDate>Fri, 09 Oct 2020 08:48:50 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining VUnit tests with cocotb components</title>
+      <link>https://vhdl.github.io/news/show/16/</link>
+      <pubDate>Mon, 28 Sep 2020 06:09:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create your own VVC for UVVM</title>
+      <link>https://vhdl.github.io/news/articles/7/</link>
+      <pubDate>Wed, 19 Aug 2020 12:13:59 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing VHDL Verification Challenges with OSVVM</title>
+      <link>https://vhdl.github.io/news/articles/4/</link>
+      <pubDate>Tue, 18 Aug 2020 15:03:07 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/4/</guid>
+      <description>An introduction to the capabilities of OSVVM utility and verification component libraries.</description>
+    </item>
+    
+  </channel>
+</rss>

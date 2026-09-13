@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>icestorm on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/icestorm/</link>
+    <description>Recent content in icestorm on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Jan 2021 06:41:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/icestorm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MINGW-packages for Electronic Design Automation (EDA)</title>
+      <link>https://vhdl.github.io/news/tools/27/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/27/</guid>
+      <description>This repository contains references to package recipes (PKGBUILD files) for electronic design automation (EDA) tools/projects to be built as MinGW-w64 targets on MSYS2 (MINGW32 and MINGW64). The main purpose is coordination of contributions for upstreaming all tools/projects to official MSYS2 repositories, and having them updated periodically. The default package manager (pacman) allows installing multiple tools at once through group mingw-w64-*-eda (i686|x86_64) . Find further details, along with usage and contribution guidelines at hdl.</description>
+    </item>
+    
+    <item>
+      <title>Building and deploying container images for open source EDA</title>
+      <link>https://vhdl.github.io/news/tools/23/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/23/</guid>
+      <description>hdl/containers: README.md
+This repository contains scripts and GitHub Actions (GHA) YAML workflows for building, testing and deploying OCI images (aka Docker images) including open source EDA tooling. All of them are pushed to hub.docker.com/u/hdlc. See hdl.github.io/containers for further details and contributing guidelines.
+  ghdl/docker: DEPRECATED.md
+Some images related to synthesis and PnR were moved to hdl/containers and hub.docker.com/u/hdlc. Some of those are now mirrored to ghdl/synth:* for backwards compatibility, but are no longer built in this repository.</description>
+    </item>
+    
+  </channel>
+</rss>

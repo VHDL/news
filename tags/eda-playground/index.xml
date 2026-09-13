@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eda-playground on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/eda-playground/</link>
+    <description>Recent content in eda-playground on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Aug 2020 20:37:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/eda-playground/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First VHDL-2019 examples on EDA playground</title>
+      <link>https://vhdl.github.io/news/past/8/</link>
+      <pubDate>Sat, 22 Aug 2020 20:37:41 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/8/</guid>
+      <description>First examples of VHDL-2019 on EDA playground supported by Riviera Pro:
+ some of the new features of the std.env package private and alias in protected types  </description>
+    </item>
+    
+  </channel>
+</rss>
