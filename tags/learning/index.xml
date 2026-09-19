@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/learning/</link>
+    <description>Recent content in learning on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Sep 2020 03:59:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SusanaCanel - Proyectos VHDL</title>
+      <link>https://vhdl.github.io/news/articles/15/</link>
+      <pubDate>Fri, 18 Sep 2020 03:59:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/15/</guid>
+      <description>Youtube channel SusanaCanel contains 100+ videos (in spanish) about learning VHDL. The GitHub repository contains the sources used in the videos.</description>
+    </item>
+    
+    <item>
+      <title>Learning FPGA programming, key points for a software developer</title>
+      <link>https://vhdl.github.io/news/articles/10/</link>
+      <pubDate>Tue, 01 Sep 2020 16:45:34 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/10/</guid>
+      <description> dev.to/targeted  Learning FPGA programming, key points for a software developer (part 1, the time)  Learning FPGA programming, key points for a software developer (part 2, registered logic) Learning FPGA programming, key points for a software developer (part 3, code patterns and inferred behavior)     </description>
+    </item>
+    
+  </channel>
+</rss>
