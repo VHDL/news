@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>osvb on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/osvb/</link>
+    <description>Recent content in osvb on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Oct 2021 01:13:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/osvb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Source Verification Bundle (OSVB)</title>
+      <link>https://vhdl.github.io/news/show/30/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/30/</guid>
+      <description>OSVB gathers the most popular open source verification Frameworks and Methodologies for VHDL and System Verilog: cocotb, OSVVM, SVUnit, UVVM, VUnit. Each of them was created and is maintained by different groups of people, in different contexts and with different backgrounds. All evolved into standalonish solutions involving build and test execution helpers, along with verification components for standard interfaces. However, each project prioritised certain features, while others didn’t receive so much care.</description>
+    </item>
+    
+  </channel>
+</rss>
