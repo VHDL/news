@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yosys on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/yosys/</link>
+    <description>Recent content in yosys on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Oct 2021 01:13:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/yosys/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Source Verification Bundle (OSVB)</title>
+      <link>https://vhdl.github.io/news/show/30/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/30/</guid>
+      <description>OSVB gathers the most popular open source verification Frameworks and Methodologies for VHDL and System Verilog: cocotb, OSVVM, SVUnit, UVVM, VUnit. Each of them was created and is maintained by different groups of people, in different contexts and with different backgrounds. All evolved into standalonish solutions involving build and test execution helpers, along with verification components for standard interfaces. However, each project prioritised certain features, while others didn’t receive so much care.</description>
+    </item>
+    
+    <item>
+      <title>MINGW-packages for Electronic Design Automation (EDA)</title>
+      <link>https://vhdl.github.io/news/tools/27/</link>
+      <pubDate>Tue, 19 Jan 2021 06:41:45 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/27/</guid>
+      <description>This repository contains references to package recipes (PKGBUILD files) for electronic design automation (EDA) tools/projects to be built as MinGW-w64 targets on MSYS2 (MINGW32 and MINGW64). The main purpose is coordination of contributions for upstreaming all tools/projects to official MSYS2 repositories, and having them updated periodically. The default package manager (pacman) allows installing multiple tools at once through group mingw-w64-*-eda (i686|x86_64) . Find further details, along with usage and contribution guidelines at hdl.</description>
+    </item>
+    
+    <item>
+      <title>Mixed HDL on Fomu, with GHDL and Yosys</title>
+      <link>https://vhdl.github.io/news/articles/26/</link>
+      <pubDate>Wed, 02 Dec 2020 05:34:29 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/26/</guid>
+      <description>Section Mixed HDL on Fomu of the FPGA Tomu Workshop contains Makefile based examples for synthesising mixed language (VHDL and Verilog) designs using open source tooling. Find sources at im-tomu/fomu-workshop: mixed-hdl/blink.
+NOTE: The workshop uses im-tomu/fomu-toolchain, which is based on open-tool-forge/fpga-toolchain. Hence, makefiles expect ghdl-yosys-plugin to be built into Yosys. Other packaging solutions can be used too, but using ghdl-yosys-plugin as a module requires adding -m ghdl to the yosys call in the Makefile.</description>
+    </item>
+    
+    <item>
+      <title>VHDL/Verilog Cryptography cores incl. co-simulation with openSSL through GHDLs VHPIdirect</title>
+      <link>https://vhdl.github.io/news/cores/24/</link>
+      <pubDate>Mon, 30 Nov 2020 19:50:15 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/24/</guid>
+      <description>Cryptography IP-cores &amp;amp; tests written in VHDL / Verilog.
+The components in this repository are not intended as productional code. They serve as proof of concept, for example how to implement a pipeline using only (local) variables instead of (global) signals. Furthermore they were used how to do a VHDL-to-Verilog conversion for learning purposes.
+The testbenches to verify AES and CTR-AES are examples how useful GHDLs VHPIdirect is. They use openSSL as reference models to check the correctness of the VHDL implementation.</description>
+    </item>
+    
+    <item>
+      <title>Building and deploying container images for open source EDA</title>
+      <link>https://vhdl.github.io/news/tools/23/</link>
+      <pubDate>Mon, 23 Nov 2020 09:09:05 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/23/</guid>
+      <description>hdl/containers: README.md
+This repository contains scripts and GitHub Actions (GHA) YAML workflows for building, testing and deploying OCI images (aka Docker images) including open source EDA tooling. All of them are pushed to hub.docker.com/u/hdlc. See hdl.github.io/containers for further details and contributing guidelines.
+  ghdl/docker: DEPRECATED.md
+Some images related to synthesis and PnR were moved to hdl/containers and hub.docker.com/u/hdlc. Some of those are now mirrored to ghdl/synth:* for backwards compatibility, but are no longer built in this repository.</description>
+    </item>
+    
+    <item>
+      <title>How to convert vhdl to other formats</title>
+      <link>https://vhdl.github.io/news/past/17/</link>
+      <pubDate>Mon, 28 Sep 2020 15:23:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/17/</guid>
+      <description>I made a list of &amp;ldquo;How to convert vhdl to &amp;hellip;&amp;rdquo; in hopes it gets indexed by the search engines. All commands are similar, they are listed so common search phrases get indexed.
+The format translation can be done with the yosys&amp;rsquo;s write_*commands. Therefore, in order to them to work, ghdl, yosys and ghdl-yosys-plugin have to be installed (make sure they are updated).
+In the following examples, ghdl is being used, in what I believe, is the most straightforward way.</description>
+    </item>
+    
+    <item>
+      <title>Examples of using PSL for functional and formal verification of VHDL with GHDL (and SymbiYosys) </title>
+      <link>https://vhdl.github.io/news/show/5/</link>
+      <pubDate>Tue, 18 Aug 2020 16:31:26 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/5/</guid>
+      <description>A collection of examples of using PSL (Property Specification Language) for functional and formal verification of VHDL designs with GHDL (and Yosys / SymbiYosys).
+This is a project with the purpose to get a current state of PSL implementation in GHDL. It probably will find unsupported PSL features, incorrect implemented features or simple bugs like GHDL crashs. It is also intended for experiments with PSL when learning the language. You can play around with the examples, as they are pretty simple.</description>
+    </item>
+    
+  </channel>
+</rss>
