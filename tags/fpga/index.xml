@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fpga on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/fpga/</link>
+    <description>Recent content in fpga on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Feb 2022 15:33:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CHIPS Alliance Announces Xilinx as its Newest Member </title>
+      <link>https://vhdl.github.io/news/past/35/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/35/</guid>
+      <description>Xilinx to continue to drive forward open source FPGA innovation
+SAN FRANCISCO, Feb. 3, 2022 – CHIPS Alliance, the leading consortium advancing common and open hardware for interfaces, processors and systems, today announced that Xilinx, Inc. (NASDAQ: XLNX) has joined the CHIPS Alliance organization. Xilinx is a leader in adaptive computing, providing highly-flexible programmable silicon, enabled by a suite of advanced software and tools to drive rapid innovation across a wide span of industries and technologies – from consumer to cars to the cloud.</description>
+    </item>
+    
+    <item>
+      <title>Joint ICTP, SAIFR and UNESP School on Systems-on-Chip, Embedded Microcontrollers and their Applications in Research and Industry</title>
+      <link>https://vhdl.github.io/news/articles/31/</link>
+      <pubDate>Thu, 21 Oct 2021 15:39:55 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/31/</guid>
+      <description>@rodrigomelo9:
+ Happy to help again in an Abdus Salam International Centre for Theoretical Physics (ICTP) workshop talking about #VHDL and #FOSS for #FPGA
+  Links to slides (and coming soon the recording) of the mini crash course about VHDL:
+ http://indico.ictp.it/event/9644/session/2/contribution/11/material/slides/ http://indico.ictp.it/event/9644/session/3/contribution/14/material/slides/   </description>
+    </item>
+    
+    <item>
+      <title>Structured constraint files for HDL designs targeting FPGA boards </title>
+      <link>https://vhdl.github.io/news/tools/20/</link>
+      <pubDate>Thu, 22 Oct 2020 21:52:32 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/tools/20/</guid>
+      <description>Any HDL design targeting FPGA boards needs constraint files in a vendor/tool specific format. Constraints are typically tied to the board and the interfaces, but not to the actual design. Therefore, copying them is inefficient and increases the maintenance burden of projects including multiple designs to be tested on several boards. This repository provides constraint definitions in a standardised and distributed format, fot decoupling board details from design sources.</description>
+    </item>
+    
+    <item>
+      <title>Learning FPGA programming, key points for a software developer</title>
+      <link>https://vhdl.github.io/news/articles/10/</link>
+      <pubDate>Tue, 01 Sep 2020 16:45:34 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/articles/10/</guid>
+      <description> dev.to/targeted  Learning FPGA programming, key points for a software developer (part 1, the time)  Learning FPGA programming, key points for a software developer (part 2, registered logic) Learning FPGA programming, key points for a software developer (part 3, code patterns and inferred behavior)     </description>
+    </item>
+    
+  </channel>
+</rss>
