@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Show on VHDL News</title>
+    <link>https://vhdl.github.io/news/show/</link>
+    <description>Recent content in Show on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Oct 2021 01:13:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/show/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Source Verification Bundle (OSVB)</title>
+      <link>https://vhdl.github.io/news/show/30/</link>
+      <pubDate>Wed, 20 Oct 2021 01:13:27 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/30/</guid>
+      <description>OSVB gathers the most popular open source verification Frameworks and Methodologies for VHDL and System Verilog: cocotb, OSVVM, SVUnit, UVVM, VUnit. Each of them was created and is maintained by different groups of people, in different contexts and with different backgrounds. All evolved into standalonish solutions involving build and test execution helpers, along with verification components for standard interfaces. However, each project prioritised certain features, while others didn’t receive so much care.</description>
+    </item>
+    
+    <item>
+      <title>Combining VUnit tests with cocotb components</title>
+      <link>https://vhdl.github.io/news/show/16/</link>
+      <pubDate>Mon, 28 Sep 2020 06:09:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examples of using PSL for functional and formal verification of VHDL with GHDL (and SymbiYosys) </title>
+      <link>https://vhdl.github.io/news/show/5/</link>
+      <pubDate>Tue, 18 Aug 2020 16:31:26 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/show/5/</guid>
+      <description>A collection of examples of using PSL (Property Specification Language) for functional and formal verification of VHDL designs with GHDL (and Yosys / SymbiYosys).
+This is a project with the purpose to get a current state of PSL implementation in GHDL. It probably will find unsupported PSL features, incorrect implemented features or simple bugs like GHDL crashs. It is also intended for experiments with PSL when learning the language. You can play around with the examples, as they are pretty simple.</description>
+    </item>
+    
+  </channel>
+</rss>

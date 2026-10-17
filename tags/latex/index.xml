@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/latex/</link>
+    <description>Recent content in LaTeX on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Nov 2020 14:39:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VHDL needs you!</title>
+      <link>https://vhdl.github.io/news/past/22/</link>
+      <pubDate>Fri, 13 Nov 2020 14:39:38 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/22/</guid>
+      <description>Are you familiar or experienced with LaTeX? In preparation for the next revision, the VHDL Analysis and Standarisation Group (VASG) decided to migrate the sources of the IEEE Std 1076-2019 Language Reference Manual (LRM) from a closed source binary file based tool (Adobe FrameMaker) to an open source text based solution (LaTeX); together with using a forge (gitlab.com/IEEE-P1076) for coordinating and keeping track of the modifications.
+Although many people think that the standards community is driven by vendors, that is a mistake noawadays.</description>
+    </item>
+    
+  </channel>
+</rss>
