@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past on VHDL News</title>
+    <link>https://vhdl.github.io/news/past/</link>
+    <description>Recent content in Past on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Feb 2022 15:33:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/past/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CHIPS Alliance Announces Xilinx as its Newest Member </title>
+      <link>https://vhdl.github.io/news/past/35/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/35/</guid>
+      <description>Xilinx to continue to drive forward open source FPGA innovation
+SAN FRANCISCO, Feb. 3, 2022 – CHIPS Alliance, the leading consortium advancing common and open hardware for interfaces, processors and systems, today announced that Xilinx, Inc. (NASDAQ: XLNX) has joined the CHIPS Alliance organization. Xilinx is a leader in adaptive computing, providing highly-flexible programmable silicon, enabled by a suite of advanced software and tools to drive rapid innovation across a wide span of industries and technologies – from consumer to cars to the cloud.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 5)</title>
+      <link>https://vhdl.github.io/news/past/32/</link>
+      <pubDate>Wed, 27 Oct 2021 22:36:39 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/32/</guid>
+      <description>The fifth part was published, titled Wilson Study Comparison:
+ Part 5 of this series compares our GitHub-based research on the verification frameworks used for VHDL designs with the findings in the Wilson Research Group functional verification study. Our analysis shows that the derived GitHub data confirms the Wilson study results for UVM, OSVVM, and UVVM but it also shows that the Wilson study misses a large part of the overall picture by not including all commonly used frameworks.</description>
+    </item>
+    
+    <item>
+      <title>VHDL needs you!</title>
+      <link>https://vhdl.github.io/news/past/22/</link>
+      <pubDate>Fri, 13 Nov 2020 14:39:38 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/22/</guid>
+      <description>Are you familiar or experienced with LaTeX? In preparation for the next revision, the VHDL Analysis and Standarisation Group (VASG) decided to migrate the sources of the IEEE Std 1076-2019 Language Reference Manual (LRM) from a closed source binary file based tool (Adobe FrameMaker) to an open source text based solution (LaTeX); together with using a forge (gitlab.com/IEEE-P1076) for coordinating and keeping track of the modifications.
+Although many people think that the standards community is driven by vendors, that is a mistake noawadays.</description>
+    </item>
+    
+    <item>
+      <title>What are the chances of having sb_ice40_components_syn.vhd freely distributed for the benefit of the community?</title>
+      <link>https://vhdl.github.io/news/past/19/</link>
+      <pubDate>Fri, 09 Oct 2020 14:54:20 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to convert vhdl to other formats</title>
+      <link>https://vhdl.github.io/news/past/17/</link>
+      <pubDate>Mon, 28 Sep 2020 15:23:01 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/17/</guid>
+      <description>I made a list of &amp;ldquo;How to convert vhdl to &amp;hellip;&amp;rdquo; in hopes it gets indexed by the search engines. All commands are similar, they are listed so common search phrases get indexed.
+The format translation can be done with the yosys&amp;rsquo;s write_*commands. Therefore, in order to them to work, ghdl, yosys and ghdl-yosys-plugin have to be installed (make sure they are updated).
+In the following examples, ghdl is being used, in what I believe, is the most straightforward way.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 4)</title>
+      <link>https://vhdl.github.io/news/past/14/</link>
+      <pubDate>Fri, 18 Sep 2020 00:54:44 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/14/</guid>
+      <description>The fourth part was published:
+ In part 3 of our GitHub study we presented the number of users on GitHub doing their VHDL verification with one or more of the analyzed frameworks: VUnit, OSVVM, UVVM, UVM, and cocotb. The results, especially that for the professional users, came as a bit of a surprise which lead to interesting discussions in the comments of the post. Can a study of professional users on GitHub really say something about professional practices behind company walls?</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 3)</title>
+      <link>https://vhdl.github.io/news/past/11/</link>
+      <pubDate>Wed, 02 Sep 2020 21:33:51 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/11/</guid>
+      <description>The third part was published:
+ In the second article about our GitHub study we analyzed the popularity of standard verification frameworks in VHDL repositories. This time we extend on those findings by analyzing the Git history of those repositories to find the number of users and examine how that changed over time.
+
+Looking at users rather than repositories doesn’t have a drastic effect to the overall picture. VUnit is still the most commonly used verification framework on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>First VHDL-2019 examples on EDA playground</title>
+      <link>https://vhdl.github.io/news/past/8/</link>
+      <pubDate>Sat, 22 Aug 2020 20:37:41 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/8/</guid>
+      <description>First examples of VHDL-2019 on EDA playground supported by Riviera Pro:
+ some of the new features of the std.env package private and alias in protected types  </description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 2)</title>
+      <link>https://vhdl.github.io/news/past/6/</link>
+      <pubDate>Wed, 19 Aug 2020 07:38:22 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/6/</guid>
+      <description>The second article/chapter was published:
+ In the first article about our GitHub study we focused on the presence of tests in HDL repositories. This time we&amp;rsquo;re looking into what standard verification frameworks are being used. The main conclusions are that:
+ VUnit is the most used verification framework for professional and academic VHDL repositories on GitHub. Most repositories using more than one framework use VUnit and OSVVM. More than half of the repositories using OSVVM also use VUnit.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 1)</title>
+      <link>https://vhdl.github.io/news/past/3/</link>
+      <pubDate>Tue, 18 Aug 2020 14:51:44 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/3/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+  </channel>
+</rss>
