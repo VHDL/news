@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interchange on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/interchange/</link>
+    <description>Recent content in interchange on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Feb 2022 15:33:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/interchange/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CHIPS Alliance Announces Xilinx as its Newest Member </title>
+      <link>https://vhdl.github.io/news/past/35/</link>
+      <pubDate>Sat, 05 Feb 2022 15:33:11 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/35/</guid>
+      <description>Xilinx to continue to drive forward open source FPGA innovation
+SAN FRANCISCO, Feb. 3, 2022 – CHIPS Alliance, the leading consortium advancing common and open hardware for interfaces, processors and systems, today announced that Xilinx, Inc. (NASDAQ: XLNX) has joined the CHIPS Alliance organization. Xilinx is a leader in adaptive computing, providing highly-flexible programmable silicon, enabled by a suite of advanced software and tools to drive rapid innovation across a wide span of industries and technologies – from consumer to cars to the cloud.</description>
+    </item>
+    
+  </channel>
+</rss>
