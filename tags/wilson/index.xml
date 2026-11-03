@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wilson on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/wilson/</link>
+    <description>Recent content in wilson on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Oct 2021 22:36:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/wilson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 5)</title>
+      <link>https://vhdl.github.io/news/past/32/</link>
+      <pubDate>Wed, 27 Oct 2021 22:36:39 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/past/32/</guid>
+      <description>The fifth part was published, titled Wilson Study Comparison:
+ Part 5 of this series compares our GitHub-based research on the verification frameworks used for VHDL designs with the findings in the Wilson Research Group functional verification study. Our analysis shows that the derived GitHub data confirms the Wilson study results for UVM, OSVVM, and UVVM but it also shows that the Wilson study misses a large part of the overall picture by not including all commonly used frameworks.</description>
+    </item>
+    
+  </channel>
+</rss>

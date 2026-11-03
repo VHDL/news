@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cryptography on VHDL News</title>
+    <link>https://vhdl.github.io/news/tags/cryptography/</link>
+    <description>Recent content in cryptography on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Nov 2020 19:50:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhdl.github.io/news/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VHDL/Verilog Cryptography cores incl. co-simulation with openSSL through GHDLs VHPIdirect</title>
+      <link>https://vhdl.github.io/news/cores/24/</link>
+      <pubDate>Mon, 30 Nov 2020 19:50:15 +0000</pubDate>
+      
+      <guid>https://vhdl.github.io/news/cores/24/</guid>
+      <description>Cryptography IP-cores &amp;amp; tests written in VHDL / Verilog.
+The components in this repository are not intended as productional code. They serve as proof of concept, for example how to implement a pipeline using only (local) variables instead of (global) signals. Furthermore they were used how to do a VHDL-to-Verilog conversion for learning purposes.
+The testbenches to verify AES and CTR-AES are examples how useful GHDLs VHPIdirect is. They use openSSL as reference models to check the correctness of the VHDL implementation.</description>
+    </item>
+    
+  </channel>
+</rss>
